@@ -1,5 +1,5 @@
 
-import "./globals.css";
+import "./global.css";
 
 export const metadata = {
   title: "Movie Hub",
